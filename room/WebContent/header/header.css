@@ -1,0 +1,46 @@
+
+
+
+
+
+
+/* branding
+
+----------------------------------------------- */
+
+#branding {
+
+	font-weight:normal;
+
+	text-align:left;
+
+	padding:2em 1em 1.6em 1em;
+
+	margin-bottom:0;
+
+}
+
+
+
+.header-repeat{background:url(header-repeat.jpg) repeat-x;}
+
+
+
+#branding a{color:#A1EAFF; font-weight:normal;}
+
+#branding a:hover{color:#fff;}
+
+
+
+#branding a:before{content:" | "; color:#fff;}
+
+
+
+#branding ul, #branding ul li{margin:0px; padding:0px; }
+
+#branding li{padding:0px 0px 0px 0px !important;}
+
+.top-10{margin-top:-10px;}
+
+
+

@@ -2,7 +2,9 @@
 *.war
 *.ear
 *.class
-
+README.md
+*.prx
+Servers/**
 # eclipse specific git ignore
 *.pydevproject
 .project
