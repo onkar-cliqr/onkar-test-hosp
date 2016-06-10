@@ -106,6 +106,8 @@ if(((request.getParameter("user_id")).equals("undefined"))){
 }
 
 
+sadfdsaf
+
 if(validatetabs==true){
 	System.out.println("pageName:"+pageName+","+(String)request.getSession().getAttribute("tabs"));
 	if(!((String)request.getSession().getAttribute("tabs")).contains(pageName))
